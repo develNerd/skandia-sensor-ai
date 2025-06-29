@@ -42,3 +42,5 @@ Skandia's vision system leverages advanced computer vision and machine learning 
 ```bash
 pip install -r requirements.txt
 
+
+### The full demo had a camera app integrated (android/ios). This can be provided on demand however a fully working product requires an industrial camera
