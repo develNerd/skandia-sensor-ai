@@ -1,0 +1,29 @@
+# Core PyTorch and Vision
+torch>=2.0.0
+torchvision>=0.15.0
+torchmetrics>=1.0.0
+lightning>=2.0.0
+
+# Anomalib (full install: includes OpenVINO, albumentations, etc.)
+anomalib[full]
+
+# Computer Vision
+opencv-python
+
+# Data manipulation
+pandas
+numpy
+scikit-learn
+
+# API server
+fastapi
+uvicorn[standard]
+
+# Utilities
+matplotlib
+tqdm
+Pillow
+
+# Optional but useful
+hydra-core
+omegaconf
