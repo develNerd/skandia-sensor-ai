@@ -28,12 +28,12 @@ Skandia's vision system leverages advanced computer vision and machine learning 
 - `model/model_testing/testing.py` - Evaluation script  
 - `model/preprocessing/` - Data preparation scripts  
 
-**Documentation**  
-- `model/dataset.md` - Dataset specifications  
-- `model/model.md` - Architecture details  
-- `model/preprocessing.md` - Preprocessing guide  
+## 📚 Documentation
 
----
+- [`dataset.md`](https://github.com/develNerd/skandia-sensor-ai/blob/main/model/datasets/dataset.md) – Dataset specifications  
+- [`model.md`](https://github.com/develNerd/skandia-sensor-ai/blob/main/model/model.md) – Architecture details  
+- [`preprocessing.md`](https://github.com/develNerd/skandia-sensor-ai/blob/main/model/preprocessing/preprocessing.md) – Preprocessing guide  
+
 
 ## 🚀 Getting Started
 
