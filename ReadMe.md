@@ -1,4 +1,4 @@
-# 🔍 Skandia AI-Based Vision System for Solder Joint Quality Classification
+# Skandia AI-Based Vision System for Solder Joint Quality Classification
 
 This repository contains the complete implementation of Skandia's AI-based computer vision solution designed to automate the classification of solder joint quality in real-time. It includes code for preprocessing, training, testing, API serving, and dataset documentation.
 
